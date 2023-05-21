@@ -1,0 +1,43 @@
+.container {
+	background-color: #F7CAC9;
+	margin-top: 100px;
+	width: 800px;
+	border: solid 1px;
+	border-radius: 20px;
+	padding:55;
+	border-color: #F7CAC9;
+}
+.l1 {
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.row2{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.col2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.container1 h1{
+	color: white;
+}
+.container1 label{
+	color: white;
+}
+.container1 h3{
+	color: white;
+}
+.row3 button{
+	width: 90%;
+	border-radius: 15px;
+	background-color: #B3CEE5;
+	color: white;
+}
+.row3{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.col3{
+	margin-right: 5px;
+}
